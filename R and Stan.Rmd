@@ -6,6 +6,7 @@ date: "2021-02-01 (updated: `r Sys.Date()`)"
 institute: "VA Center for Clinical Management Research"
 output:
   xaringan::moon_reader:
+    self_contained: true
     lib_dir: libs
     nature:
       highlightStyle: github
